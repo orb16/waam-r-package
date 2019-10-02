@@ -1,0 +1,9 @@
+Package: waamr
+Title: Calculates Distance From Testates
+Version: 0.1.0
+Authors@R: person("Olivia", "Burge", email = "olivia.burge@gmail.com",
+                  role = c("aut", "cre"))
+Description: R package to calculate distance from baseline. Currently at the stage of being targetted at testate data
+Depends: R (>= 3.1.0)
+License: What license is it under?
+LazyData: true
